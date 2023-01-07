@@ -94,10 +94,12 @@ img {
   display: flex;
   color: #2e2f42;
   text-decoration: none;
-  font-weight: 500;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 550;
   font-size: 16px;
-  line-height: 24px;  
-  letter-spacing: 0.02em;
+  line-height: 24px;
+  letter-spacing: 0.04em;
 }
 
 .nav-page .item:not(:last-child) {
